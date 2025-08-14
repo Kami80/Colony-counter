@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-r@@k*l*j0&62f3%mu1wj$wl)i_@=10^qvpkco$j+!w6kw$_nx@
 DEBUG = True
 
 ALLOWED_HOSTS = []
-OPENAI_API_KEY = 'sk-proj-1asN9auu9Gn3gNQBXjWaT3BlbkFJnBnXdipP36343nVt4oYA'
+OPENAI_API_KEY = 'your-key'
 
 # Application definition
 
@@ -134,3 +134,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
